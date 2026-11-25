@@ -56,6 +56,7 @@ Operation at the Fraunhofer Institute for Energy Economics and Energy System Tec
     gridequivalent
     topology
     networks
+    webapp
     plotting
     file_io
     converter

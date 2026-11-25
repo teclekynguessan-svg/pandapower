@@ -1,0 +1,4164 @@
+{
+  "type": "FeatureCollection",
+  "name": "LigneBT_GrandLahou_Ext_Dens_geojson",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "TFO": "Ext-GL1",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 539.939158,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.997630958956445,
+              5.245875938860019
+            ],
+            [
+              -4.997012168725213,
+              5.245393618273378
+            ],
+            [
+              -4.996359212232141,
+              5.244659732277412
+            ],
+            [
+              -4.99578002670735,
+              5.244391027557198
+            ],
+            [
+              -4.995870888758746,
+              5.242651458845138
+            ],
+            [
+              -4.996190092599261,
+              5.241993379124888
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "TFO": "Ext-GL1",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 316.681734,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.994066943961042,
+              5.245221042920774
+            ],
+            [
+              -4.994100275755011,
+              5.245093711427665
+            ],
+            [
+              -4.994155847483552,
+              5.244887397183074
+            ],
+            [
+              -4.994070036272533,
+              5.244171023030994
+            ],
+            [
+              -4.994265662714879,
+              5.243550377719039
+            ],
+            [
+              -4.99443589237601,
+              5.243026440170422
+            ],
+            [
+              -4.994633314086607,
+              5.242465375710156
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "TFO": "Ext-GL1",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 114.209706,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.99443589237601,
+              5.243026440170422
+            ],
+            [
+              -4.993489986671166,
+              5.242617182930069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "TFO": "Ext-GL1",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 90.880605,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.994265662714879,
+              5.243550377719038
+            ],
+            [
+              -4.995015336516368,
+              5.243882958059998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "TFO": "Ext-GL1",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 284.325784,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.994100275755011,
+              5.245093711427665
+            ],
+            [
+              -4.992994098221974,
+              5.244804138879582
+            ],
+            [
+              -4.99338494444328,
+              5.243434013727918
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "TFO": "Ext-GL2",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 355.273838,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.996633333333333,
+              5.272358333333333
+            ],
+            [
+              -4.996499208151308,
+              5.27238432193205
+            ],
+            [
+              -4.996521686869952,
+              5.27388127563319
+            ],
+            [
+              -4.996530964554131,
+              5.27456945201938
+            ],
+            [
+              -4.996537140374103,
+              5.275394215346349
+            ],
+            [
+              -4.996537350215108,
+              5.275459842579171
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "TFO": "Ext-GL2",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 905.407289,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.000585764805774,
+              5.273226120825431
+            ],
+            [
+              -4.996508972685744,
+              5.273225037354822
+            ],
+            [
+              -4.992418015062823,
+              5.273223972489836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "TFO": "Ext-GL2",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 585.314144,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.999271314790625,
+              5.273854700512879
+            ],
+            [
+              -4.996521686869952,
+              5.27388127563319
+            ],
+            [
+              -4.993991485884163,
+              5.273914229704131
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "TFO": "Ext-GL2",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 1053.31886,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.999188698975513,
+              5.274578645806655
+            ],
+            [
+              -4.996530964554131,
+              5.27456945201938
+            ],
+            [
+              -4.992705333677346,
+              5.274542707717866
+            ],
+            [
+              -4.992363410788438,
+              5.27455718551543
+            ],
+            [
+              -4.989689412317078,
+              5.274670588888056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "TFO": "Ext-GL2",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 795.660166,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.999969654126417,
+              5.275328192002841
+            ],
+            [
+              -4.992793209730214,
+              5.275464766200471
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "TFO": "Ext-GL2",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 587.109747,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.997991443714874,
+              5.273225434440626
+            ],
+            [
+              -4.997926316351196,
+              5.273211085962829
+            ],
+            [
+              -4.997916604056488,
+              5.270757754612115
+            ],
+            [
+              -4.997874607071775,
+              5.269304218261619
+            ],
+            [
+              -4.997857269163836,
+              5.267969479788865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "TFO": "Ext-GL2",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 317.392963,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.997874607071775,
+              5.269304218261619
+            ],
+            [
+              -4.999385357939548,
+              5.269275027738069
+            ],
+            [
+              -5.000737397734692,
+              5.269255704416136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "TFO": "Ext-GL2",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 395.526365,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.999385357939548,
+              5.269275027738069
+            ],
+            [
+              -4.99937648368207,
+              5.267083786771793
+            ],
+            [
+              -5.000758387064262,
+              5.267060625096446
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "TFO": "Ext-GL2",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 296.454303,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.997916604056487,
+              5.270757754612115
+            ],
+            [
+              -5.000590930745128,
+              5.270756646274473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "TFO": "Ext-GL2",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 203.663848,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.995108183061702,
+              5.273215456438511
+            ],
+            [
+              -4.995140105584653,
+              5.271374016945633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 593.116296,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.001117464815592,
+              5.252129019129682
+            ],
+            [
+              -5.000526330514507,
+              5.253077052878692
+            ],
+            [
+              -5.000353642581317,
+              5.253332055731559
+            ],
+            [
+              -5.000070311597278,
+              5.253147763520841
+            ],
+            [
+              -4.999059373942112,
+              5.25250199580014
+            ],
+            [
+              -4.998507521618971,
+              5.253377427024682
+            ],
+            [
+              -4.998245035156339,
+              5.253810670910035
+            ],
+            [
+              -4.997975084160981,
+              5.25415839059082
+            ],
+            [
+              -4.997725439831946,
+              5.254488140629275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 215.366243,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.000070311597278,
+              5.253147763520841
+            ],
+            [
+              -4.999636083630818,
+              5.253754680232921
+            ],
+            [
+              -4.999326800158693,
+              5.253744398295785
+            ],
+            [
+              -4.998866557041964,
+              5.254506000474652
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 237.914917,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.000526330514507,
+              5.253077052878692
+            ],
+            [
+              -5.000735676169862,
+              5.253234204624799
+            ],
+            [
+              -5.00096486383593,
+              5.254197316709575
+            ],
+            [
+              -5.00113515906402,
+              5.255080095480046
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 490.694837,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.001117464815592,
+              5.252129019129683
+            ],
+            [
+              -5.00121843575099,
+              5.251978125721739
+            ],
+            [
+              -5.001921599833565,
+              5.252437652467983
+            ],
+            [
+              -5.002405754450014,
+              5.252785480595036
+            ],
+            [
+              -5.00254826587388,
+              5.253379771245981
+            ],
+            [
+              -5.003095244682562,
+              5.253621191361381
+            ],
+            [
+              -5.00439056894272,
+              5.252674907369744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 356.386945,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.999059373942112,
+              5.25250199580014
+            ],
+            [
+              -4.99806593482909,
+              5.25180141464199
+            ],
+            [
+              -4.997676264654683,
+              5.251519224306655
+            ],
+            [
+              -4.997675921032798,
+              5.251411325858155
+            ],
+            [
+              -4.998033996983196,
+              5.250852967321173
+            ],
+            [
+              -4.99855921739326,
+              5.250316619956378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 215.941422,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.99806593482909,
+              5.25180141464199
+            ],
+            [
+              -4.997538464434182,
+              5.252640532327288
+            ],
+            [
+              -4.996720767737902,
+              5.252139080791131
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 52.216078,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.997675921032798,
+              5.251411325858155
+            ],
+            [
+              -4.997225661484997,
+              5.251272658262606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 81.703875,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.998507521618971,
+              5.253377427024682
+            ],
+            [
+              -4.997898937778153,
+              5.252960661334228
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 146.765958,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.999232142507112,
+              5.253909771645533
+            ],
+            [
+              -4.999930721702754,
+              5.254335909479894
+            ],
+            [
+              -4.999646103494572,
+              5.254755535946111
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 204.215254,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.00096486383593,
+              5.254197316709575
+            ],
+            [
+              -5.001386294971361,
+              5.254111416964736
+            ],
+            [
+              -5.001867119333857,
+              5.254010832479403
+            ],
+            [
+              -5.002016219721637,
+              5.25492186120997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 108.34169,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.001386294971361,
+              5.254111416964736
+            ],
+            [
+              -5.001546014319061,
+              5.255077972070164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 260.828469,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.000930985324564,
+              5.252416311309011
+            ],
+            [
+              -5.001621454963035,
+              5.252908543550195
+            ],
+            [
+              -5.001690370221474,
+              5.253427286838068
+            ],
+            [
+              -5.002462745794795,
+              5.254037758314143
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 136.695124,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.002405754450014,
+              5.252785480595036
+            ],
+            [
+              -5.002925511832395,
+              5.252155539314137
+            ],
+            [
+              -5.003240548717452,
+              5.251880744133389
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 104.511592,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.002925511832395,
+              5.252155539314137
+            ],
+            [
+              -5.003563639724696,
+              5.252851231767701
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 62.557256,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.997975084160981,
+              5.254158390590819
+            ],
+            [
+              -4.997497193509177,
+              5.25385753140174
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 301.611453,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.995565,
+              5.249871666666665
+            ],
+            [
+              -4.995520158115633,
+              5.249943860565569
+            ],
+            [
+              -4.995213333199635,
+              5.250453741230671
+            ],
+            [
+              -4.994896920227007,
+              5.250979757002652
+            ],
+            [
+              -4.994673232007093,
+              5.251363757439837
+            ],
+            [
+              -4.994132863311372,
+              5.252190031493891
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 191.001389,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.994673232007092,
+              5.251363757439835
+            ],
+            [
+              -4.995687593106657,
+              5.251950742586993
+            ],
+            [
+              -4.996154415245926,
+              5.25224557118339
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 398.382551,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.994926935577136,
+              5.249556834041996
+            ],
+            [
+              -4.995520158115633,
+              5.249943860565569
+            ],
+            [
+              -4.99632631670592,
+              5.250480781778424
+            ],
+            [
+              -4.996080451512761,
+              5.250963090244399
+            ],
+            [
+              -4.995828863454697,
+              5.251414013412986
+            ],
+            [
+              -4.996554477590332,
+              5.251881136814516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 302.064982,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.994896920227007,
+              5.250979757002652
+            ],
+            [
+              -4.994345598146854,
+              5.25063446782401
+            ],
+            [
+              -4.994059895528067,
+              5.250461452425823
+            ],
+            [
+              -4.99377655925273,
+              5.25027474049842
+            ],
+            [
+              -4.994531059137699,
+              5.249090264630776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 128.223123,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.99572445350162,
+              5.249776526759649
+            ],
+            [
+              -4.995027507518094,
+              5.248851138391417
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 55.12439,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.995213333199635,
+              5.250453741230671
+            ],
+            [
+              -4.995625482432856,
+              5.250732641040868
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 416.115362,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.994468078247329,
+              5.247976038352147
+            ],
+            [
+              -4.99362126530267,
+              5.249179328550796
+            ],
+            [
+              -4.993176167115844,
+              5.248894895282709
+            ],
+            [
+              -4.992863597195725,
+              5.249366948192893
+            ],
+            [
+              -4.992208907612011,
+              5.250365098300398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 149.561693,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.992863597195725,
+              5.249366948192893
+            ],
+            [
+              -4.991736692137454,
+              5.248623296196954
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 64.589661,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.994345598146855,
+              5.25063446782401
+            ],
+            [
+              -4.994629933297261,
+              5.250124659136746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 56.244255,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.994059895528067,
+              5.250461452425823
+            ],
+            [
+              -4.993803447949333,
+              5.250900312441548
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 73.168674,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.995687593106657,
+              5.251950742586993
+            ],
+            [
+              -4.995371354551853,
+              5.252531513224076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 56.8833,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.996080451512761,
+              5.250963090244399
+            ],
+            [
+              -4.996534246728809,
+              5.251203205395178
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 137.192161,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.0075,
+              5.247948333333333
+            ],
+            [
+              -5.007910522890812,
+              5.248870947506537
+            ],
+            [
+              -5.008004948199316,
+              5.249080986889066
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 308.226233,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.0075,
+              5.247948333333333
+            ],
+            [
+              -5.007844258877206,
+              5.247757911154974
+            ],
+            [
+              -5.00800782926835,
+              5.247316568611838
+            ],
+            [
+              -5.008035974751042,
+              5.247242935118781
+            ],
+            [
+              -5.008101530056082,
+              5.247064684720486
+            ],
+            [
+              -5.007984761442098,
+              5.246633819935865
+            ],
+            [
+              -5.007676660950334,
+              5.245467027979148
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 311.929757,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.00800782926835,
+              5.247316568611838
+            ],
+            [
+              -5.006621768584125,
+              5.246748245268575
+            ],
+            [
+              -5.006721575088249,
+              5.246477372048402
+            ],
+            [
+              -5.007052601807212,
+              5.245501460499408
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 90.88194,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.007984761442098,
+              5.246633819935865
+            ],
+            [
+              -5.008748485378103,
+              5.246335045689876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 175.749997,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.006721575088249,
+              5.246477372048402
+            ],
+            [
+              -5.006229536711464,
+              5.246334013237506
+            ],
+            [
+              -5.005967952477206,
+              5.246251110593637
+            ],
+            [
+              -5.005962193816901,
+              5.245789471562755
+            ],
+            [
+              -5.005649059287016,
+              5.245661642027728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 135.597347,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.006229536711464,
+              5.246334013237506
+            ],
+            [
+              -5.006449309801762,
+              5.245733152918625
+            ],
+            [
+              -5.006175890319405,
+              5.245633110326017
+            ],
+            [
+              -5.005899261407427,
+              5.24553415150444
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 79.898646,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.006175890319405,
+              5.245633110326017
+            ],
+            [
+              -5.006464009903342,
+              5.244970834217026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 120.223498,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.008035974751042,
+              5.247242935118781
+            ],
+            [
+              -5.008728542872663,
+              5.2474661688036
+            ],
+            [
+              -5.009069454988286,
+              5.247572434463961
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 178.17143,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.007910522890812,
+              5.248870947506537
+            ],
+            [
+              -5.008558735389705,
+              5.248619783118992
+            ],
+            [
+              -5.009412346815826,
+              5.248297098549939
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 94.398495,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.008558735389705,
+              5.248619783118991
+            ],
+            [
+              -5.008641833634776,
+              5.249152031536449
+            ],
+            [
+              -5.008689953053676,
+              5.249463226633811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 250.216806,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.008641833634776,
+              5.249152031536449
+            ],
+            [
+              -5.009532546194314,
+              5.2490439511633
+            ],
+            [
+              -5.00965684440522,
+              5.249732814977167
+            ],
+            [
+              -5.010227682249051,
+              5.250068093912081
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "TFO": "Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 67.850412,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.008728542872663,
+              5.2474661688036
+            ],
+            [
+              -5.008571935562862,
+              5.248059310832478
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 215.191895,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.003912409129543,
+              5.241045802809729
+            ],
+            [
+              -5.004017285276018,
+              5.241086799515078
+            ],
+            [
+              -5.003723593666729,
+              5.241535879719532
+            ],
+            [
+              -5.003019750599653,
+              5.242623130383856
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 259.787887,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.004017285276018,
+              5.241086799515077
+            ],
+            [
+              -5.00421640365585,
+              5.240810339662583
+            ],
+            [
+              -5.004273179665286,
+              5.240729536549709
+            ],
+            [
+              -5.004347685426021,
+              5.240720808050337
+            ],
+            [
+              -5.005134013486206,
+              5.24065806560695
+            ],
+            [
+              -5.005335313049666,
+              5.240644536781423
+            ],
+            [
+              -5.005502911149461,
+              5.240974534243004
+            ],
+            [
+              -5.005714689445871,
+              5.241394856066501
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 165.56898,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.005134013486206,
+              5.24065806560695
+            ],
+            [
+              -5.004990532022299,
+              5.239795968766262
+            ],
+            [
+              -5.00506566895301,
+              5.239177321146769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 209.551337,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.003723593666729,
+              5.241535879719532
+            ],
+            [
+              -5.004166682489359,
+              5.24182184462373
+            ],
+            [
+              -5.004454939138701,
+              5.242018408028897
+            ],
+            [
+              -5.004696543807421,
+              5.241795759181915
+            ],
+            [
+              -5.005214553220515,
+              5.24134413351423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 153.159768,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.004166682489359,
+              5.24182184462373
+            ],
+            [
+              -5.003884324785019,
+              5.242278452823258
+            ],
+            [
+              -5.003856802504128,
+              5.242323489726903
+            ],
+            [
+              -5.003554111594775,
+              5.242536770627138
+            ],
+            [
+              -5.003598421945402,
+              5.242670518409222
+            ],
+            [
+              -5.003475214704606,
+              5.242925303800824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 183.609371,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.004696543807421,
+              5.241795759181914
+            ],
+            [
+              -5.004973659478653,
+              5.24253700201877
+            ],
+            [
+              -5.005800901471527,
+              5.242278045858397
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 68.023111,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.00421640365585,
+              5.240810339662583
+            ],
+            [
+              -5.004709830824106,
+              5.241175998615823
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 89.429734,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.005502911149461,
+              5.240974534243004
+            ],
+            [
+              -5.006242176841683,
+              5.240650828358118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 161.436694,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.003884324785019,
+              5.242278452823258
+            ],
+            [
+              -5.004500211487132,
+              5.242752743539144
+            ],
+            [
+              -5.0041127661885,
+              5.243312497013753
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 315.540826,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.001998813071445,
+              5.239159096683038
+            ],
+            [
+              -5.002014911096108,
+              5.239146427139394
+            ],
+            [
+              -5.002089769556564,
+              5.239196111153464
+            ],
+            [
+              -5.002633652925802,
+              5.239589360865784
+            ],
+            [
+              -5.002822995995622,
+              5.239431912335956
+            ],
+            [
+              -5.003108174217021,
+              5.239420325536415
+            ],
+            [
+              -5.003416578674999,
+              5.239409272791251
+            ],
+            [
+              -5.003877570452828,
+              5.239390081610392
+            ],
+            [
+              -5.004265451125795,
+              5.239365487800162
+            ],
+            [
+              -5.004640501989589,
+              5.239347779217591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 101.385342,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.002014911096108,
+              5.239146427139394
+            ],
+            [
+              -5.00253592207986,
+              5.238804957578255
+            ],
+            [
+              -5.002713498263341,
+              5.238572486336419
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 60.727859,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.003416578674999,
+              5.239409272791251
+            ],
+            [
+              -5.00341322247304,
+              5.238860124863224
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 145.450293,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.003877570452828,
+              5.239390081610392
+            ],
+            [
+              -5.003859422327384,
+              5.238736302898155
+            ],
+            [
+              -5.004498266004886,
+              5.238571602698054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 90.556967,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.003108174217021,
+              5.239420325536415
+            ],
+            [
+              -5.003116565577946,
+              5.239533029208065
+            ],
+            [
+              -5.003443062928292,
+              5.240158443302134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 103.60422,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.004347685426021,
+              5.240720808050337
+            ],
+            [
+              -5.004272135671871,
+              5.240202490045919
+            ],
+            [
+              -5.003882940495813,
+              5.240066849935112
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 394.018739,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.001998813071446,
+              5.239159096683038
+            ],
+            [
+              -5.001664774041476,
+              5.23942091923256
+            ],
+            [
+              -5.001597490615565,
+              5.239479915478467
+            ],
+            [
+              -5.000814958801358,
+              5.241187872965193
+            ],
+            [
+              -5.001790514718273,
+              5.241828120993468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 188.653903,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.001664774041476,
+              5.23942091923256
+            ],
+            [
+              -5.001721194340172,
+              5.239481935344653
+            ],
+            [
+              -5.002448690857719,
+              5.239914425188793
+            ],
+            [
+              -5.002632168988326,
+              5.240021737103777
+            ],
+            [
+              -5.002871543844595,
+              5.240529868652724
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 323.38173,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.003912409129543,
+              5.241045802809729
+            ],
+            [
+              -5.003923975054524,
+              5.241096591944512
+            ],
+            [
+              -5.003530591763672,
+              5.24166311522078
+            ],
+            [
+              -5.003250747120846,
+              5.242066620736939
+            ],
+            [
+              -5.002904483182604,
+              5.242561774664023
+            ],
+            [
+              -5.001998990914586,
+              5.241965951202959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 120.52416,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.003250747120846,
+              5.242066620736939
+            ],
+            [
+              -5.002310826956902,
+              5.241518861731555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "TFO": "Deriv Ext-GL5",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 88.512554,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.003530591763672,
+              5.24166311522078
+            ],
+            [
+              -5.00286730925359,
+              5.241217538576946
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 1333.09672,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.003025309335978,
+              5.232819411584765
+            ],
+            [
+              -5.002299840848577,
+              5.23302142520118
+            ],
+            [
+              -5.001850574438086,
+              5.233190346706821
+            ],
+            [
+              -5.001144586589116,
+              5.233456714561739
+            ],
+            [
+              -4.999591426672414,
+              5.234047875193006
+            ],
+            [
+              -5.001054866184687,
+              5.237573281908231
+            ],
+            [
+              -5.00177412398152,
+              5.237310896068188
+            ],
+            [
+              -5.002886503613438,
+              5.236904728121496
+            ],
+            [
+              -5.003339795512188,
+              5.236738207756718
+            ],
+            [
+              -5.003116077074503,
+              5.236101190916727
+            ],
+            [
+              -5.002398132142534,
+              5.23563968188432
+            ],
+            [
+              -5.002161799610752,
+              5.23507678463206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 135.834524,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.001144586589116,
+              5.233456714561739
+            ],
+            [
+              -5.001533836972121,
+              5.234621427922096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 372.374525,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.000357456720933,
+              5.232454314889551
+            ],
+            [
+              -5.001461468779437,
+              5.232070725191237
+            ],
+            [
+              -5.001850574438086,
+              5.233190346706821
+            ],
+            [
+              -5.002168486980929,
+              5.234149151298168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 151.650323,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.002886503613438,
+              5.236904728121496
+            ],
+            [
+              -5.002786690135661,
+              5.236585375819511
+            ],
+            [
+              -5.002230002951222,
+              5.236316603262726
+            ],
+            [
+              -5.001815420106819,
+              5.236279278666102
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 344.530393,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.00177412398152,
+              5.237310896068189
+            ],
+            [
+              -5.002202232420792,
+              5.238568888584586
+            ],
+            [
+              -5.001466532685287,
+              5.238833660305331
+            ],
+            [
+              -5.001653771862443,
+              5.239389824492132
+            ],
+            [
+              -5.001998813071446,
+              5.239159096683038
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 212.495922,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.002886503613438,
+              5.236904728121496
+            ],
+            [
+              -5.003196069853436,
+              5.237889324469474
+            ],
+            [
+              -5.003920608187244,
+              5.238402344179462
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "TFO": "Deriv Ext-GL5 Bis",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 217.718481,
+        "Type": null,
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.001461468779437,
+              5.232070725191236
+            ],
+            [
+              -5.001316038188878,
+              5.231676632383694
+            ],
+            [
+              -5.001996352164382,
+              5.231420009767573
+            ],
+            [
+              -5.00174006001078,
+              5.230641376625422
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "TFO": "Ext-GL7",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 404.576126,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.007888866274331,
+              5.252347309546709
+            ],
+            [
+              -5.007770801837589,
+              5.251546189842905
+            ],
+            [
+              -5.00838792890853,
+              5.251431877089495
+            ],
+            [
+              -5.008881726866738,
+              5.251349066765105
+            ],
+            [
+              -5.008903181873542,
+              5.251481371204284
+            ],
+            [
+              -5.008960495907207,
+              5.25150676282184
+            ],
+            [
+              -5.009349584933889,
+              5.251456086399511
+            ],
+            [
+              -5.009974096316308,
+              5.251387024989357
+            ],
+            [
+              -5.0104676407214,
+              5.251332900972635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "TFO": "Ext-GL6",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 102.591398,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.009974096316308,
+              5.251387024989357
+            ],
+            [
+              -5.010065317330016,
+              5.252310234392625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "TFO": "Ext-GL6",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 81.628904,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.009349584933889,
+              5.251456086399511
+            ],
+            [
+              -5.009422272350677,
+              5.252190645991556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "TFO": "Ext-GL6",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 166.308031,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.008518605594507,
+              5.252187679218125
+            ],
+            [
+              -5.00838792890853,
+              5.251431877089495
+            ],
+            [
+              -5.008266999411554,
+              5.250705075759609
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "TFO": "Ext-GL6",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 132.117029,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.008881726866737,
+              5.251349066765105
+            ],
+            [
+              -5.008750702549309,
+              5.250161583131506
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "TFO": "Ext-GL7",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 481.362199,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.007514339363729,
+              5.253921232248015
+            ],
+            [
+              -5.008210448505383,
+              5.253821444091758
+            ],
+            [
+              -5.008429789257852,
+              5.253795872905347
+            ],
+            [
+              -5.009102450126027,
+              5.25352401597332
+            ],
+            [
+              -5.009788441657785,
+              5.253244464785129
+            ],
+            [
+              -5.010503021651386,
+              5.252955257452847
+            ],
+            [
+              -5.010960321361273,
+              5.253206738777149
+            ],
+            [
+              -5.010950995810202,
+              5.253868563691912
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "TFO": "Ext-GL7",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 62.409091,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.009788441657785,
+              5.253244464785129
+            ],
+            [
+              -5.009742544030151,
+              5.253806947387035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "TFO": "Ext-GL7",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 183.824688,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.008210448505383,
+              5.253821444091758
+            ],
+            [
+              -5.008231945465505,
+              5.254054724914981
+            ],
+            [
+              -5.008628070299872,
+              5.254045798906741
+            ],
+            [
+              -5.009066496482363,
+              5.254212705208574
+            ],
+            [
+              -5.009623792903022,
+              5.254260640598583
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "TFO": "Ext-GL7",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 79.174911,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.008231945465505,
+              5.254054724914981
+            ],
+            [
+              -5.008288372036356,
+              5.254768460407307
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "TFO": "Ext-GL11",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 676.778636,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.011535,
+              5.263188333333332
+            ],
+            [
+              -5.011510747593251,
+              5.261849168137598
+            ],
+            [
+              -5.01269945101953,
+              5.261814730786961
+            ],
+            [
+              -5.013290591973729,
+              5.261798326866725
+            ],
+            [
+              -5.014061643672711,
+              5.261776509516806
+            ],
+            [
+              -5.01627867690428,
+              5.261795104914786
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "TFO": "Ext-GL11",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 428.123014,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.014061643672711,
+              5.261776509516806
+            ],
+            [
+              -5.014059528814046,
+              5.263116389586274
+            ],
+            [
+              -5.016584970984749,
+              5.263121101329396
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 279.761302,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.013290591973729,
+              5.261798326866725
+            ],
+            [
+              -5.01312825110594,
+              5.259273704205562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 203.880882,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.012721012324914,
+              5.262524858940973
+            ],
+            [
+              -5.01269945101953,
+              5.261814730786961
+            ],
+            [
+              -5.012646010601984,
+              5.260682773961538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "TFO": "Ext-GL11",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 335.691473,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.011535,
+              5.263188333333331
+            ],
+            [
+              -5.012496526977183,
+              5.263156871273721
+            ],
+            [
+              -5.012526581229436,
+              5.264509531996907
+            ],
+            [
+              -5.012532104530337,
+              5.265227764115478
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "TFO": "Ext-GL11",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 225.13115,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.012526581229436,
+              5.264509531996907
+            ],
+            [
+              -5.011601177525066,
+              5.264493197165377
+            ],
+            [
+              -5.010495866359833,
+              5.264483883559611
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "TFO": "Ext-GL11",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 120.409898,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.011601177525066,
+              5.264493197165377
+            ],
+            [
+              -5.011609643498936,
+              5.265127677992885
+            ],
+            [
+              -5.011623955737569,
+              5.265581772110033
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "TFO": "Ext-GL11",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 302.825338,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.012094402856006,
+              5.264501266123498
+            ],
+            [
+              -5.012082595201067,
+              5.265825074753336
+            ],
+            [
+              -5.012128912809135,
+              5.267238879303005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "TFO": "NV_QT GOUROSSO",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 164.469397,
+        "Type": "Renf",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.010350349180055,
+              5.267197387908396
+            ],
+            [
+              -5.01183332664068,
+              5.267243055744474
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "TFO": "Ext-GL11",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 87.280137,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.014059528814046,
+              5.263116389586274
+            ],
+            [
+              -5.014046003394598,
+              5.263905541339651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "TFO": "20 VILLAS",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 417.49906,
+        "Type": null,
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.999307453266053,
+              5.24234038435331
+            ],
+            [
+              -4.999124209552204,
+              5.242719976853838
+            ],
+            [
+              -5.000308814322065,
+              5.243424781166715
+            ],
+            [
+              -4.999253844390704,
+              5.245090129772258
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "TFO": "Ext-GL4",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 521.320419,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.995565,
+              5.249871666666664
+            ],
+            [
+              -4.99572445350162,
+              5.249776526759649
+            ],
+            [
+              -4.996690573230562,
+              5.24921380947841
+            ],
+            [
+              -4.99606009156574,
+              5.248109611634459
+            ],
+            [
+              -4.994468078247329,
+              5.247976038352147
+            ],
+            [
+              -4.993936218666961,
+              5.247940696180697
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "TFO": "Ext-GL11",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 112.550896,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.011609643498936,
+              5.265127677992885
+            ],
+            [
+              -5.010594346903043,
+              5.265134178424645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "TFO": "Gare",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 721.662437,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.008914325409799,
+              5.271432890254142
+            ],
+            [
+              -5.00895882060461,
+              5.272593259479105
+            ],
+            [
+              -5.00767885885622,
+              5.272605566661484
+            ],
+            [
+              -5.007684128948008,
+              5.273384142496809
+            ],
+            [
+              -5.007696318426076,
+              5.274677278618999
+            ],
+            [
+              -5.009701261919366,
+              5.274670798472702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "TFO": "Ext-GL3",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 125.483542,
+        "Type": "Ext",
+        "Type_2": "extension"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.001921599833565,
+              5.252437652467983
+            ],
+            [
+              -5.002256314410113,
+              5.251942132514228
+            ],
+            [
+              -5.002662832952181,
+              5.251593490129493
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "TFO": "Gare",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 465.38508,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.012370745858203,
+              5.273440399128651
+            ],
+            [
+              -5.012307802766022,
+              5.272020562161538
+            ],
+            [
+              -5.015087747350267,
+              5.27196660997524
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "TFO": "Dioulabougou",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 240.885076,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.989575521735222,
+              5.279073218872442
+            ],
+            [
+              -4.989569863690546,
+              5.277946729114385
+            ],
+            [
+              -4.989542081501321,
+              5.276895295908366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "TFO": "Dioulabougou",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 458.256596,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.989569863690546,
+              5.277946729114384
+            ],
+            [
+              -4.990226096165159,
+              5.277910608272125
+            ],
+            [
+              -4.990623545898788,
+              5.277907291426349
+            ],
+            [
+              -4.990938196940132,
+              5.278145334800016
+            ],
+            [
+              -4.991409829265042,
+              5.277755618967001
+            ],
+            [
+              -4.991824077463289,
+              5.277268014480501
+            ],
+            [
+              -4.992484472197102,
+              5.275990954348361
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "TFO": "Dioulabougou",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 284.887885,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.990226096165159,
+              5.277910608272125
+            ],
+            [
+              -4.990219289988499,
+              5.277054537909026
+            ],
+            [
+              -4.989930055709245,
+              5.276477244592697
+            ],
+            [
+              -4.989419521289851,
+              5.275532887035634
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "TFO": "Dioulabougou",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 181.293075,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.989930055709245,
+              5.276477244592697
+            ],
+            [
+              -4.990828831564698,
+              5.276447803892817
+            ],
+            [
+              -4.990802020879364,
+              5.275710302266183
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "TFO": "Dioulabougou",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 124.728066,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.988213021609709,
+              5.276858687253217
+            ],
+            [
+              -4.98880412310617,
+              5.276860881570617
+            ],
+            [
+              -4.989338166835464,
+              5.276867344398074
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "TFO": "Dioulabougou",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 172.644198,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.988804169584651,
+              5.276235667975607
+            ],
+            [
+              -4.98880412310617,
+              5.276860881570617
+            ],
+            [
+              -4.988827487065316,
+              5.277796583728202
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "TFO": "Dioulabougou",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 281.984318,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.987559392103882,
+              5.279623161696109
+            ],
+            [
+              -4.987558366513294,
+              5.278021309826959
+            ],
+            [
+              -4.987543118224397,
+              5.277073321856562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "TFO": "Dioulabougou",
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 147.349171,
+        "Type": "Renf",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.986138433164781,
+              5.278748970745156
+            ],
+            [
+              -4.986162598504979,
+              5.280081218175107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "TFO": null,
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 264.329716,
+        "Type": null,
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.984395011883517,
+              5.241025189665408
+            ],
+            [
+              -4.982026192523713,
+              5.24075223880853
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116,
+        "TFO": null,
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 166.176831,
+        "Type": null,
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.984395011883517,
+              5.241025189665408
+            ],
+            [
+              -4.985888022555494,
+              5.241159581749241
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 117,
+        "TFO": null,
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 350.140817,
+        "Type": null,
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.007916848122694,
+              5.266498816416315
+            ],
+            [
+              -5.005809944873914,
+              5.266482315585659
+            ],
+            [
+              -5.004758299069255,
+              5.266483150752633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118,
+        "TFO": null,
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 115.587882,
+        "Type": "densification",
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.006174623973012,
+              5.268476304905508
+            ],
+            [
+              -5.00721714335514,
+              5.268455832726871
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "TFO": null,
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 133.058173,
+        "Type": null,
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -5.007089706056485,
+              5.251139051050108
+            ],
+            [
+              -5.007721666666666,
+              5.251001666666666
+            ],
+            [
+              -5.007763189627576,
+              5.251555100196998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 120,
+        "TFO": null,
+        "Sortie": null,
+        "Section": null,
+        "Ville": null,
+        "Longueur": 36.607366,
+        "Type": null,
+        "Type_2": "densification"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -4.999591426672414,
+              5.234047875193004
+            ],
+            [
+              -4.999275938675238,
+              5.234145640942883
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
